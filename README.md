@@ -1,3 +1,4 @@
+[IC706-README-with-pictures.zip](https://github.com/user-attachments/files/33152905/IC706-README-with-pictures.zip)
 HamTech M0FXB IC-706MKIIG Controller V1.17.1
 
 Focused fix only: far-left LCD M1/M2/M3/M4 selector.
